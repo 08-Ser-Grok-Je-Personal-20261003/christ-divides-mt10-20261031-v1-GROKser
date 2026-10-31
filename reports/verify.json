@@ -1,0 +1,1090 @@
+{
+ "generated": "2026-10-31 16:32:26 Asia/Taipei (UTC+8)",
+ "live_pages": 159,
+ "checks": {
+  "站内/外部页面片段": {
+   "total": 44,
+   "pass": 44
+  },
+  "经文引证列表(refs)": {
+   "total": 242,
+   "pass": 242
+  },
+  "比利时 条文块": {
+   "total": 43,
+   "pass": 43
+  },
+  "多特 条文块": {
+   "total": 69,
+   "pass": 69
+  },
+  "引句(quote)": {
+   "total": 59,
+   "pass": 59
+  },
+  "信条简介块": {
+   "total": 4,
+   "pass": 4
+  },
+  "三大信经 全文块": {
+   "total": 3,
+   "pass": 3
+  },
+  "信经简介块": {
+   "total": 3,
+   "pass": 3
+  },
+  "海德堡 问答块": {
+   "total": 144,
+   "pass": 144
+  },
+  "完整性: HC=129": {
+   "total": 1,
+   "pass": 1
+  },
+  "完整性: BC=37": {
+   "total": 1,
+   "pass": 1
+  },
+  "完整性: CD=全部条文": {
+   "total": 1,
+   "pass": 1
+  },
+  "圣经和合本(getbible 在线)": {
+   "total": 32,
+   "pass": 32
+  }
+ },
+ "failures": [],
+ "residue": {
+  "HC 主日1": {
+   "live_chars": 486,
+   "unmatched_chars": 218,
+   "sample": "罗14:7-9林前6:19-20林前3:23；多2:14彼前1:18-19；约壹1:7；2:2约8:34-36；来2:1"
+  },
+  "HC 主日2": {
+   "live_chars": 251,
+   "unmatched_chars": 74,
+   "sample": "罗3:20；7:7-25申6:5利19:18罗3:10,23；约壹1:8,10创6:5；8:21；耶17:9；罗7:23"
+  },
+  "HC 主日3": {
+   "live_chars": 310,
+   "unmatched_chars": 70,
+   "sample": "创1:31创1:26-27弗4:24西3:10诗8创3罗5:12,18-19诗51:5创6:5；8:21；伯14:4；赛"
+  },
+  "HC 主日4": {
+   "live_chars": 439,
+   "unmatched_chars": 156,
+   "sample": "创1:31创3:13；约8:44；提前2:13-14创3:6罗5:12,18-19出34:7；诗5:4-6；7:11；鸿"
+  },
+  "HC 主日10": {
+   "live_chars": 384,
+   "unmatched_chars": 139,
+   "sample": "耶23:23-24；徒17:24-28来1:3耶5:24；徒14:15-17；约9:3；箴22:2箴16:33太10:2"
+  },
+  "HC 主日5": {
+   "live_chars": 428,
+   "unmatched_chars": 136,
+   "sample": "出20:5；23:7；罗2:1-11赛53:11；罗8:3-4诗130:3；太6:12；罗2:4-5结18:4,20；来"
+  },
+  "HC 主日6": {
+   "live_chars": 514,
+   "unmatched_chars": 198,
+   "sample": "罗5:12,15；林前15:21；来2:14-16来7:26-27；彼前3:18赛9:6申4:24；鸿1:6；诗130:"
+  },
+  "HC 主日7": {
+   "live_chars": 593,
+   "unmatched_chars": 158,
+   "sample": "太7:14；约1:12；3:16,18,36；罗11:16-21约17:3,17；来11:1-3；雅2:19罗4:18-"
+  },
+  "HC 主日8": {
+   "live_chars": 247,
+   "unmatched_chars": 100,
+   "sample": "申6:4；赛44:6；45:5；林前8:4,6创1:2-3；赛61:1；63:8-10；太3:16-17；28:18-1"
+  },
+  "HC 主日9": {
+   "live_chars": 384,
+   "unmatched_chars": 160,
+   "sample": "创1；2；出20:11；伯38-39；诗33:6；赛44:24；徒4:24；14:15诗104:27-30；太6:30；"
+  },
+  "HC 主日11": {
+   "live_chars": 282,
+   "unmatched_chars": 73,
+   "sample": "太1:21；来7:25赛43:11；约15:4-5；徒4:11-12；提前2:5林前1:12-13；加5:4西1:19-"
+  },
+  "HC 主日12": {
+   "live_chars": 535,
+   "unmatched_chars": 245,
+   "sample": "诗45:7（来1:9）；赛61:1（路4:18）；路3:21-22申18:15（徒3:22）约1:18；15:15诗11"
+  },
+  "HC 主日13": {
+   "live_chars": 267,
+   "unmatched_chars": 98,
+   "sample": "约1:1-3,14,18；3:16；罗8:32；来1；约壹4:9约1:12；罗8:14-17；加4:6；弗1:5-6彼前"
+  },
+  "HC 主日14": {
+   "live_chars": 358,
+   "unmatched_chars": 170,
+   "sample": "约1:1；10:30-36；罗1:3；9:5；西1:15-17；约壹5:20路1:35太1:18-23；约1:14；加4"
+  },
+  "HC 主日15": {
+   "live_chars": 442,
+   "unmatched_chars": 169,
+   "sample": "赛53；提前2:6；彼前2:24；3:18罗3:25；林前5:7；弗5:2；来10:14；约壹2:2；4:10罗8:1-"
+  },
+  "HC 主日16": {
+   "live_chars": 544,
+   "unmatched_chars": 158,
+   "sample": "创2:17罗8:3；腓2:8；来2:9,14-15赛53:9；约19:38-42；徒13:29；林前15:3-4约5:2"
+  },
+  "HC 主日17": {
+   "live_chars": 172,
+   "unmatched_chars": 70,
+   "sample": "罗4:25；林前15:16-20；彼前1:3-5罗6:5-11；弗2:4-6；西3:1-4罗8:11；林前15:12-2"
+  },
+  "HC 主日18": {
+   "live_chars": 630,
+   "unmatched_chars": 218,
+   "sample": "可16:19；路24:50-51；徒1:9-11罗8:34；来4:14；7:23-25；9:24太24:30；徒1:11"
+  },
+  "HC 主日19": {
+   "live_chars": 439,
+   "unmatched_chars": 135,
+   "sample": "弗1:20-23；西1:18太28:18；约5:22-23徒2:33；弗4:7-12诗2:9；110:1-2；约10:2"
+  },
+  "HC 主日20": {
+   "live_chars": 179,
+   "unmatched_chars": 93,
+   "sample": "创1:1-2；太28:19；徒5:3-4；林前3:16林前6:19；林后1:21-22；加4:6；弗1:13加3:14；"
+  },
+  "HC 主日21": {
+   "live_chars": 613,
+   "unmatched_chars": 302,
+   "sample": "约10:11；徒20:28；弗4:11-13；西1:18罗1:16；10:14-17；弗5:26创26:4；启5:9赛5"
+  },
+  "HC 主日22": {
+   "live_chars": 288,
+   "unmatched_chars": 91,
+   "sample": "路16:22；23:43；腓1:21-23伯19:25-26；林前15:20,42-46,54；腓3:21；约壹3:2约"
+  },
+  "HC 主日23": {
+   "live_chars": 514,
+   "unmatched_chars": 180,
+   "sample": "哈2:4；约3:36；罗1:17；5:1-2罗3:21-28；加2:16；弗2:8-9；腓3:8-11罗3:9-10罗7"
+  },
+  "HC 主日24": {
+   "live_chars": 296,
+   "unmatched_chars": 62,
+   "sample": "申27:26；加3:10赛64:6太5:12；来11:6路17:10；提后4:7-8太7:18；路6:43-45；约15"
+  },
+  "HC 主日25": {
+   "live_chars": 464,
+   "unmatched_chars": 136,
+   "sample": "约3:5；林前2:10-14；弗2:8；腓1:29罗10:17；彼前1:23-25太28:19-20；林前10:16创1"
+  },
+  "HC 主日26": {
+   "live_chars": 496,
+   "unmatched_chars": 111,
+   "sample": "太28:19太3:11；可16:16；约1:33；徒2:38；罗6:3-4；彼前3:21结36:25；亚13:1；弗1:"
+  },
+  "HC 主日27": {
+   "live_chars": 465,
+   "unmatched_chars": 129,
+   "sample": "太3:11；彼前3:21；约壹1:7林前6:11；启1:5；7:14可16:16；徒2:38；罗6:3-4；加3:27创"
+  },
+  "HC 主日28": {
+   "live_chars": 866,
+   "unmatched_chars": 151,
+   "sample": "太26:26-28；可14:22-24；路22:19-20；林前11:23-25约6:35,40,50-54约6:55-"
+  },
+  "HC 主日29": {
+   "live_chars": 487,
+   "unmatched_chars": 104,
+   "sample": "弗5:26；多3:5太26:26-29创17:10-11；出12:11,13；林前10:3-4；彼前3:21林前10:1"
+  },
+  "HC 主日30": {
+   "live_chars": 635,
+   "unmatched_chars": 150,
+   "sample": "太26:28；约19:30；来7:27；9:12,25-26；10:10-18林前6:17；10:16-17约20:17"
+  },
+  "HC 主日31": {
+   "live_chars": 512,
+   "unmatched_chars": 91,
+   "sample": "太16:19；约20:21-23太16:19；约3:31-36；20:21-23太18:15-20；林前5:3-5,11"
+  },
+  "HC 主日32": {
+   "live_chars": 404,
+   "unmatched_chars": 125,
+   "sample": "罗6:13；12:1-2；彼前2:5-10太5:16；林前6:19-20太7:17-18；加5:22-24；彼后1:10"
+  },
+  "HC 主日33": {
+   "live_chars": 381,
+   "unmatched_chars": 150,
+   "sample": "诗51:3-4,17；珥2:12-13；罗8:12-13；林后7:10诗51:8,12；赛57:15；罗5:1；14:1"
+  },
+  "HC 主日34": {
+   "live_chars": 979,
+   "unmatched_chars": 271,
+   "sample": "出20:1-17；申5:6-21太22:37-40林前6:9-10；10:5-14；约壹5:21利19:31；申18:9"
+  },
+  "HC 主日35": {
+   "live_chars": 387,
+   "unmatched_chars": 149,
+   "sample": "申4:15-19；赛40:18-25；徒17:29；罗1:23利10:1-7；申12:30；撒上15:22-23；太15"
+  },
+  "HC 主日36": {
+   "live_chars": 355,
+   "unmatched_chars": 116,
+   "sample": "利24:10-17利19:12太5:37；雅5:12利5:1；箴29:24诗99:1-5；赛45:23；耶4:2太10:"
+  },
+  "HC 主日37": {
+   "live_chars": 311,
+   "unmatched_chars": 106,
+   "sample": "申6:13；10:20；耶4:1-2；来6:16创21:24；31:53；书9:15；撒上24:22；王上1:29-30"
+  },
+  "HC 主日38": {
+   "live_chars": 299,
+   "unmatched_chars": 164,
+   "sample": "申6:4-9,20-25；林前9:13-14；提后2:2；3:13-17；多1:5申12:5-12；诗40:9-10；6"
+  },
+  "HC 主日39": {
+   "live_chars": 189,
+   "unmatched_chars": 97,
+   "sample": "出21:17；箴1:8；4:1；罗13:1-2；弗5:21-22；6:1-9；西3:18-4:1箴20:20；23:22"
+  },
+  "HC 主日40": {
+   "live_chars": 516,
+   "unmatched_chars": 228,
+   "sample": "创9:6；利19:17-18；太5:21-22；26:52箴25:21-22；太18:35；罗12:19；弗4:26太4"
+  },
+  "HC 主日41": {
+   "live_chars": 253,
+   "unmatched_chars": 78,
+   "sample": "利18:30；弗5:3-5犹22-23林前7:1-9；帖前4:3-8；来13:4太5:27-29；林前6:18-20；弗"
+  },
+  "HC 主日42": {
+   "live_chars": 342,
+   "unmatched_chars": 147,
+   "sample": "出22:1；林前5:9-10；6:9-10申25:13-16；诗15:5；箴11:1；12:22；结45:9-12；路6"
+  },
+  "HC 主日43": {
+   "live_chars": 260,
+   "unmatched_chars": 93,
+   "sample": "诗15；箴19:5,9；21:28；太7:1；路6:37；罗1:28-32利19:11-12；箴12:22；13:5；约"
+  },
+  "HC 主日44": {
+   "live_chars": 414,
+   "unmatched_chars": 129,
+   "sample": "诗19:7-14；139:23-24；罗7:7-8传7:20；罗7:14-15；林前13:9；约壹1:8诗1:1-2；罗"
+  },
+  "HC 主日45": {
+   "live_chars": 641,
+   "unmatched_chars": 199,
+   "sample": "诗50:14-15；116:12-19；帖前5:16-18太7:7-8；路11:9-13诗145:18-20；约4:22"
+  },
+  "HC 主日46": {
+   "live_chars": 258,
+   "unmatched_chars": 53,
+   "sample": "太7:9-11；路11:11-13耶23:23-24；徒17:24-25太6:25-34；罗8:31-32"
+  },
+  "HC 主日47": {
+   "live_chars": 231,
+   "unmatched_chars": 89,
+   "sample": "耶9:23-24；31:33-34；太16:17；约17:3出34:5-8；诗145；耶32:16-20；路1:46-5"
+  },
+  "HC 主日48": {
+   "live_chars": 221,
+   "unmatched_chars": 0,
+   "sample": ""
+  },
+  "HC 主日49": {
+   "live_chars": 171,
+   "unmatched_chars": 64,
+   "sample": "太7:21；16:24-26；路22:42；罗12:1-2；多2:11-12诗103:20-21林前7:17-24；弗6"
+  },
+  "HC 主日50": {
+   "live_chars": 229,
+   "unmatched_chars": 103,
+   "sample": "诗104:27-30；145:15-16；太6:25-34徒14:17；17:25；雅1:17申8:3；诗37:16；1"
+  },
+  "HC 主日51": {
+   "live_chars": 160,
+   "unmatched_chars": 43,
+   "sample": "诗51:1-7；143:2；罗8:1；约壹2:1-2太6:14-15；18:21-35"
+  },
+  "HC 主日52": {
+   "live_chars": 505,
+   "unmatched_chars": 164,
+   "sample": "诗103:14-16；约15:1-5林后11:14；弗6:10-13；彼前5:8约15:18-21罗7:23；加5:17"
+  },
+  "BC 1": {
+   "live_chars": 200,
+   "unmatched_chars": 126,
+   "sample": "罗10:10申6:4；林前8:4,6；提前2:5约4:24诗90:2罗11:33西1:15；提前6:16雅1:17王上8"
+  },
+  "BC 10": {
+   "live_chars": 565,
+   "unmatched_chars": 161,
+   "sample": "太17:5；约1:14,18；3:16；14:1-14；20:17,31；罗1:4；加4:4；来1:2；约壹5:5,9-"
+  },
+  "BC 11": {
+   "live_chars": 164,
+   "unmatched_chars": 61,
+   "sample": "约14:15-26；15:26；罗8:9创1:2；太28:19；徒5:3-4；林前2:10；3:16；6:11；约壹5:"
+  },
+  "BC 12": {
+   "live_chars": 517,
+   "unmatched_chars": 145,
+   "sample": "创1:1；2:3；赛40:26；耶32:17；西1:15-16；提前4:3；来11:3；启4:11诗103:20-21；"
+  },
+  "BC 13": {
+   "live_chars": 679,
+   "unmatched_chars": 163,
+   "sample": "约5:17；来1:3诗115:3；箴16:1,9,33；21:1；弗1:11-12；雅4:13-15雅1:13；约壹2:"
+  },
+  "BC 14": {
+   "live_chars": 754,
+   "unmatched_chars": 92,
+   "sample": "创2:7；3:19；传12:7创1:26-27；弗4:24；西3:10创3:16-19；罗5:12创2:17；弗2:1；"
+  },
+  "BC 15": {
+   "live_chars": 325,
+   "unmatched_chars": 50,
+   "sample": "罗5:12-14,19罗3:10伯14:4；诗51:5；约3:6弗2:3罗7:18-19弗2:4-5"
+  },
+  "BC 16": {
+   "live_chars": 264,
+   "unmatched_chars": 134,
+   "sample": "罗3:12玛1:2-3；罗9:11-13；提后1:9；多3:4-5约6:37,44；10:29；17:2,9,12；18"
+  },
+  "BC 17": {
+   "live_chars": 182,
+   "unmatched_chars": 72,
+   "sample": "创3:9创3:15创22:18；赛7:14；约1:14；5:46；7:42；徒13:32-33；罗1:2-3；加3:16"
+  },
+  "BC 18": {
+   "live_chars": 557,
+   "unmatched_chars": 92,
+   "sample": "创26:4；撒下7:12-16；诗132:11；路1:55；徒13:23.加4:4提前2:5；3:16；来2:14林后5"
+  },
+  "BC 19": {
+   "live_chars": 516,
+   "unmatched_chars": 95,
+   "sample": "约1:14；10:30；罗9:5；腓2:6-7太28:20提前2:5太26:11；路24:39；约20:25；徒1:3,"
+  },
+  "BC 2": {
+   "live_chars": 216,
+   "unmatched_chars": 24,
+   "sample": "诗19:1-4诗19:7-8；林前1:18-21"
+  },
+  "BC 20": {
+   "live_chars": 209,
+   "unmatched_chars": 27,
+   "sample": "罗8:3来2:14罗3:25-26；8:32罗4:25"
+  },
+  "BC 21": {
+   "live_chars": 722,
+   "unmatched_chars": 181,
+   "sample": "诗110:4；来7:15-17罗4:25；5:8-9；8:32；加3:13；西2:14；来2:9,17；9:11-15徒"
+  },
+  "BC 22": {
+   "live_chars": 518,
+   "unmatched_chars": 151,
+   "sample": "约16:14；林前2:12；弗1:17-18约14:6；徒4:12；加2:21诗32:1；太1:21；路1:77；徒13"
+  },
+  "BC 23": {
+   "live_chars": 502,
+   "unmatched_chars": 110,
+   "sample": "约壹2:1林后5:18-19；弗2:8；提前2:6诗115:1；启7:10-12林前4:4；雅2:10徒4:12；来10"
+  },
+  "BC 24": {
+   "live_chars": 860,
+   "unmatched_chars": 200,
+   "sample": "徒16:14；罗10:17；林前12:3结36:26-27；约1:12-13；3:5；弗2:4-6；多3:5；彼前1:2"
+  },
+  "BC 25": {
+   "live_chars": 230,
+   "unmatched_chars": 61,
+   "sample": "太27:51；罗10:4；来9:9-10太5:17；加3:24；西2:17罗13:8-10；15:4；彼后1:19；3:"
+  },
+  "BC 26": {
+   "live_chars": 1237,
+   "unmatched_chars": 146,
+   "sample": "提前2:5约壹2:1弗3:12太11:28；约15:13；弗3:19；约壹4:10来1:3；8:1太3:17；约11:4"
+  },
+  "BC 27": {
+   "live_chars": 493,
+   "unmatched_chars": 194,
+   "sample": "创22:18；赛49:6；弗2:17-19诗111:1；约10:14,16；弗4:3-6；来12:22-23弗1:13；"
+  },
+  "BC 28": {
+   "live_chars": 422,
+   "unmatched_chars": 163,
+   "sample": "太16:18-19；徒2:47；加4:26；弗5:25-27；来2:11-12；12:23代下30:8；约17:21；西"
+  },
+  "BC 29": {
+   "live_chars": 795,
+   "unmatched_chars": 231,
+   "sample": "启2:9罗9:6加1:8；提前3:15徒19:3-5；林前11:20-29太18:15-17；林前5:4-5,13；帖后"
+  },
+  "BC 3": {
+   "live_chars": 158,
+   "unmatched_chars": 35,
+   "sample": "出34:27；诗102:18；启1:11,19出31:18提后3:16"
+  },
+  "BC 30": {
+   "live_chars": 328,
+   "unmatched_chars": 129,
+   "sample": "徒20:28；弗4:11-12；提前3:15；来13:20-21路1:2；10:16；约20:23；罗10:14；林前4"
+  },
+  "BC 31": {
+   "live_chars": 335,
+   "unmatched_chars": 101,
+   "sample": "徒1:23-24；徒6:2-3徒13:2；林前12:28；提前4:14；5:22；来5:4林后5:20；彼前5:1-4太"
+  },
+  "BC 32": {
+   "live_chars": 226,
+   "unmatched_chars": 63,
+   "sample": "提前3:15赛29:13；太15:9；加5:1林前14:33太16:19；18:15-18；罗16:17；林前5；提前1"
+  },
+  "BC 33": {
+   "live_chars": 346,
+   "unmatched_chars": 73,
+   "sample": "创17:9-14；出12；罗4:11太28:19；弗5:26罗2:28-29；西2:11-12太28:19太26:26-"
+  },
+  "BC 34": {
+   "live_chars": 976,
+   "unmatched_chars": 152,
+   "sample": "西2:11出12:48；彼前2:9太3:11；林前12:13徒22:16；来9:14；约壹1:7；启1:5多3:5彼前3"
+  },
+  "BC 35": {
+   "live_chars": 1204,
+   "unmatched_chars": 179,
+   "sample": "太26:26-28；可14:22-24；路22:19-20；林前11:23-26约3:5-6约5:25约6:48-51约"
+  },
+  "BC 36": {
+   "live_chars": 587,
+   "unmatched_chars": 140,
+   "sample": "箴8:15；但2:21；约19:11；罗13:1出18:20申1:16；16:19；士21:25；诗82；耶21:12；"
+  },
+  "BC 37": {
+   "live_chars": 1015,
+   "unmatched_chars": 304,
+   "sample": "太24:36；25:13；帖前5:1-2来11:39-40；启6:11太24:30；25:31启1:7太25:31-46"
+  },
+  "BC 4": {
+   "live_chars": 388,
+   "unmatched_chars": 0,
+   "sample": ""
+  },
+  "BC 5": {
+   "live_chars": 212,
+   "unmatched_chars": 61,
+   "sample": "帖前2:13提后3:16-17林前12:3；约壹4:6；5:7申18:21-22；王上22:28；耶28:9；结33:3"
+  },
+  "BC 6": {
+   "live_chars": 181,
+   "unmatched_chars": 0,
+   "sample": ""
+  },
+  "BC 7": {
+   "live_chars": 555,
+   "unmatched_chars": 162,
+   "sample": "提后3:16-17；彼前1:10-12林前15:2；提前1:3申4:2；箴30:6；徒26:22；林前4:6；启22:1"
+  },
+  "BC 8": {
+   "live_chars": 415,
+   "unmatched_chars": 97,
+   "sample": "林前8:4-6太3:16-17；太28:19弗3:14-15箴8:22-31；约1:14；5:17-26；林前1:24；"
+  },
+  "BC 9": {
+   "live_chars": 944,
+   "unmatched_chars": 80,
+   "sample": "约14:16；15:26；徒2:32-33；罗8:9；加4:6；多3:4-6；彼前1:2；约壹4:13-14；5:1-1"
+  },
+  "CD 1.1": {
+   "live_chars": 147,
+   "unmatched_chars": 5,
+   "sample": "罗5:12"
+  },
+  "CD 1.10": {
+   "live_chars": 187,
+   "unmatched_chars": 0,
+   "sample": ""
+  },
+  "CD 1.11": {
+   "live_chars": 73,
+   "unmatched_chars": 11,
+   "sample": "约6:37约10:28"
+  },
+  "CD 1.12": {
+   "live_chars": 202,
+   "unmatched_chars": 32,
+   "sample": "申29:29;林前2:10-11林后13:5林后7:10太5:6"
+  },
+  "CD 1.13": {
+   "live_chars": 201,
+   "unmatched_chars": 11,
+   "sample": "约壹3:3约壹4:19"
+  },
+  "CD 1.14": {
+   "live_chars": 189,
+   "unmatched_chars": 33,
+   "sample": "徒20:27伯36:23-26;罗11:33;12:3;林前4:6"
+  },
+  "CD 1.15": {
+   "live_chars": 278,
+   "unmatched_chars": 16,
+   "sample": "罗9:22彼前2:8徒14:16"
+  },
+  "CD 1.16": {
+   "live_chars": 405,
+   "unmatched_chars": 51,
+   "sample": "雅2:26林后1:12;罗5:11腓3:3;罗7:24赛42:3;太12:20太13:22来12:29"
+  },
+  "CD 1.17": {
+   "live_chars": 123,
+   "unmatched_chars": 24,
+   "sample": "创17:7;赛59:21徒2:39;林前7:14"
+  },
+  "CD 1.18": {
+   "live_chars": 271,
+   "unmatched_chars": 14,
+   "sample": "太20:15;伯40:1-5"
+  },
+  "CD 1.19": {
+   "live_chars": 2656,
+   "unmatched_chars": 0,
+   "sample": ""
+  },
+  "CD 1.2": {
+   "live_chars": 63,
+   "unmatched_chars": 0,
+   "sample": ""
+  },
+  "CD 1.3": {
+   "live_chars": 151,
+   "unmatched_chars": 14,
+   "sample": "赛52:7林前1:23-24"
+  },
+  "CD 1.4": {
+   "live_chars": 81,
+   "unmatched_chars": 17,
+   "sample": "约3:36可16:16；罗10:9"
+  },
+  "CD 1.5": {
+   "live_chars": 135,
+   "unmatched_chars": 4,
+   "sample": "来4:6"
+  },
+  "CD 1.6": {
+   "live_chars": 270,
+   "unmatched_chars": 11,
+   "sample": "徒13:48彼前2:8"
+  },
+  "CD 1.7": {
+   "live_chars": 506,
+   "unmatched_chars": 33,
+   "sample": "弗1:4,11约17:2约17:12约6:37,44;约17:24"
+  },
+  "CD 1.8": {
+   "live_chars": 133,
+   "unmatched_chars": 20,
+   "sample": "申7:7；9:6；弗1:4-5弗2:10"
+  },
+  "CD 1.9": {
+   "live_chars": 188,
+   "unmatched_chars": 5,
+   "sample": "罗8:30"
+  },
+  "CD 2.1": {
+   "live_chars": 127,
+   "unmatched_chars": 18,
+   "sample": "出34:6-7罗5:16;加3:10"
+  },
+  "CD 2.10": {
+   "live_chars": 1527,
+   "unmatched_chars": 0,
+   "sample": ""
+  },
+  "CD 2.2": {
+   "live_chars": 112,
+   "unmatched_chars": 21,
+   "sample": "约3:16;罗5:8林后5:21加3:13"
+  },
+  "CD 2.3": {
+   "live_chars": 63,
+   "unmatched_chars": 19,
+   "sample": "来9:26,28;10:14约壹2:2"
+  },
+  "CD 2.4": {
+   "live_chars": 129,
+   "unmatched_chars": 21,
+   "sample": "来4:15；7:26约壹4:9太27:46"
+  },
+  "CD 2.5": {
+   "live_chars": 107,
+   "unmatched_chars": 29,
+   "sample": "约3:16林前1:23;太28:19徒2:38；16:31"
+  },
+  "CD 2.6": {
+   "live_chars": 87,
+   "unmatched_chars": 18,
+   "sample": "太22:14;诗95:11;来4:6"
+  },
+  "CD 2.7": {
+   "live_chars": 85,
+   "unmatched_chars": 12,
+   "sample": "林后5:18弗2:8-9"
+  },
+  "CD 2.8": {
+   "live_chars": 335,
+   "unmatched_chars": 49,
+   "sample": "约17:9弗5:25-27路22:20;来8:6启5:9腓1:29约壹1:7约10:28弗5:27"
+  },
+  "CD 2.9": {
+   "live_chars": 194,
+   "unmatched_chars": 24,
+   "sample": "太16:18约11:52王上19:18弗5:25"
+  },
+  "CD 34.1": {
+   "live_chars": 192,
+   "unmatched_chars": 22,
+   "sample": "创1:26-27创3:1-7弗4:17-19"
+  },
+  "CD 34.10": {
+   "live_chars": 299,
+   "unmatched_chars": 41,
+   "sample": "罗9:16西1:13;加1:4彼前2:9林前1:31;林后10:17;弗2:8-9"
+  },
+  "CD 34.11": {
+   "live_chars": 268,
+   "unmatched_chars": 49,
+   "sample": "来6:4-5;林前2:10-14来4:12徒16:14申30:6结11:19；36:26太7:18"
+  },
+  "CD 34.12": {
+   "live_chars": 339,
+   "unmatched_chars": 37,
+   "sample": "约3:3;林后4:6;5:17;弗5:14约5:25;罗4:17腓2:13"
+  },
+  "CD 34.13": {
+   "live_chars": 77,
+   "unmatched_chars": 11,
+   "sample": "约3:18;罗10:9"
+  },
+  "CD 34.14": {
+   "live_chars": 156,
+   "unmatched_chars": 9,
+   "sample": "弗2:8腓2:13"
+  },
+  "CD 34.15": {
+   "live_chars": 316,
+   "unmatched_chars": 31,
+   "sample": "罗11:35摩6:1;耶7:4罗14:10罗4:17林前4:7"
+  },
+  "CD 34.16": {
+   "live_chars": 317,
+   "unmatched_chars": 21,
+   "sample": "罗8:2;弗2:1诗51:12;腓2:13"
+  },
+  "CD 34.17": {
+   "live_chars": 432,
+   "unmatched_chars": 70,
+   "sample": "赛55:10-11;林前1:21雅1:18彼前1:23,25;2:2徒2:42;林后5:11-21;提后4:2罗10:1"
+  },
+  "CD 34.18": {
+   "live_chars": 2329,
+   "unmatched_chars": 0,
+   "sample": ""
+  },
+  "CD 34.2": {
+   "live_chars": 104,
+   "unmatched_chars": 21,
+   "sample": "伯14:4;诗51:5来4:15罗5:12"
+  },
+  "CD 34.3": {
+   "live_chars": 144,
+   "unmatched_chars": 32,
+   "sample": "弗2:1,3;约8:34;罗6:16-17约3:3-6;多3:5"
+  },
+  "CD 34.4": {
+   "live_chars": 209,
+   "unmatched_chars": 24,
+   "sample": "罗1:19-20罗2:14-15罗1:18,20"
+  },
+  "CD 34.5": {
+   "live_chars": 161,
+   "unmatched_chars": 29,
+   "sample": "罗3:19-20；7:10,13；罗8:3；林后3:6-7"
+  },
+  "CD 34.6": {
+   "live_chars": 108,
+   "unmatched_chars": 15,
+   "sample": "林后5:18-19林前1:21"
+  },
+  "CD 34.7": {
+   "live_chars": 247,
+   "unmatched_chars": 47,
+   "sample": "弗1:9；2:14；西3:11罗2:11;太11:26罗11:22-23启16:7申29:29"
+  },
+  "CD 34.8": {
+   "live_chars": 120,
+   "unmatched_chars": 32,
+   "sample": "赛55:1;太22:4启22:17约6:37;太11:28-29"
+  },
+  "CD 34.9": {
+   "live_chars": 241,
+   "unmatched_chars": 25,
+   "sample": "太11:20-24；22:1-8；23:37太13"
+  },
+  "CD 5.1": {
+   "live_chars": 87,
+   "unmatched_chars": 19,
+   "sample": "约8:34;罗6:17罗7:21-24"
+  },
+  "CD 5.10": {
+   "live_chars": 212,
+   "unmatched_chars": 34,
+   "sample": "罗8:16-17;约壹3:1-2徒24:16罗8:37林前15:19"
+  },
+  "CD 5.11": {
+   "live_chars": 153,
+   "unmatched_chars": 12,
+   "sample": "林后1:3林前10:13"
+  },
+  "CD 5.12": {
+   "live_chars": 181,
+   "unmatched_chars": 36,
+   "sample": "罗12:1诗56:12-13诗116:12;多2:11-14;约壹3:3"
+  },
+  "CD 5.13": {
+   "live_chars": 186,
+   "unmatched_chars": 27,
+   "sample": "林后7:10弗2:10诗63:4;赛64:7耶33:5"
+  },
+  "CD 5.14": {
+   "live_chars": 98,
+   "unmatched_chars": 22,
+   "sample": "申6:20-25提后3:16-17徒2:42"
+  },
+  "CD 5.15": {
+   "live_chars": 237,
+   "unmatched_chars": 29,
+   "sample": "启14:12弗5:32诗33:10-11彼前5:10-11"
+  },
+  "CD 5.16": {
+   "live_chars": 2174,
+   "unmatched_chars": 0,
+   "sample": ""
+  },
+  "CD 5.2": {
+   "live_chars": 157,
+   "unmatched_chars": 30,
+   "sample": "约壹1:8西3:5提前4:7;腓3:12,14启5:6,10"
+  },
+  "CD 5.3": {
+   "live_chars": 126,
+   "unmatched_chars": 18,
+   "sample": "罗7:20林前10:13;彼前1:5"
+  },
+  "CD 5.4": {
+   "live_chars": 240,
+   "unmatched_chars": 27,
+   "sample": "弗1:19帖前5:6,17太26:41撒下11;太26"
+  },
+  "CD 5.5": {
+   "live_chars": 115,
+   "unmatched_chars": 23,
+   "sample": "撒下12;弗4:30诗32:3-5;民6:25"
+  },
+  "CD 5.6": {
+   "live_chars": 162,
+   "unmatched_chars": 37,
+   "sample": "弗1:11；2:4诗51:11加4:5约壹5:16-18太12:31-32"
+  },
+  "CD 5.7": {
+   "live_chars": 217,
+   "unmatched_chars": 33,
+   "sample": "彼前1:23约壹3:9林后7:10诗32:5；51:19腓2:12"
+  },
+  "CD 5.8": {
+   "live_chars": 210,
+   "unmatched_chars": 39,
+   "sample": "诗33:11来6:17;罗8:30;9:11路22:32;罗8:34弗1:13"
+  },
+  "CD 5.9": {
+   "live_chars": 120,
+   "unmatched_chars": 19,
+   "sample": "罗8:31-39提后4:8提后4:18"
+  },
+  "信经 apostles": {
+   "live_chars": 309,
+   "unmatched_chars": 143,
+   "sample": "这一信经被称为《使徒信经》，并不是因为它是使徒写的，而是因为它是对使徒教导所作的总结。它的阐述“简洁明了、层次优美、严肃庄重，适于敬拜”。今天的《使徒信经》是以"
+  },
+  "信经 nicene": {
+   "live_chars": 606,
+   "unmatched_chars": 284,
+   "sample": "《尼西亚信经》又称《尼西亚-君士坦丁堡信经》，它是早期基督教会的正统信仰告白，旨在驳斥某些异端，尤其是亚流主义。这些异端质疑神的三位一体，否定基督的神性，后来在"
+  },
+  "信经 athanasian": {
+   "live_chars": 1353,
+   "unmatched_chars": 321,
+   "sample": "《亚他那修信经》是以亚他那修（公元293-373年）的名字命名的，他以正统教义驳回了亚流对三位一体教义的攻击。虽然亚他那修不是该信经的作者，以他的名字命名其实并"
+  }
+ },
+ "coverage": {
+  "hc.html 问答数": 129,
+  "bc.html 条数": 37,
+  "cd.html 条数": 63,
+  "live HC 页数": 52,
+  "live BC 页数": 37,
+  "live CD 页数": 63
+ },
+ "ok": true,
+ "sources": {
+  "ccifellowship_pages": {
+   "creed:apostles": "https://ccifellowship.org/books/book-of-praise/creeds/apostles-creed",
+   "creed:athanasian": "https://ccifellowship.org/books/book-of-praise/creeds/athanasian-creed",
+   "creed:nicene": "https://ccifellowship.org/books/book-of-praise/creeds/nicene-creed",
+   "hc:1": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/lord-day-1",
+   "hc:2": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section1/lord-day-2",
+   "hc:3": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section1/lord-day-3",
+   "hc:4": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section1/lord-day-4",
+   "hc:10": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/lord-day-10",
+   "hc:5": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/lord-day-5",
+   "hc:6": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/lord-day-6",
+   "hc:7": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/lord-day-7",
+   "hc:8": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/lord-day-8",
+   "hc:9": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/lord-day-9",
+   "hc:11": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part1/lord-day-11",
+   "hc:12": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part1/lord-day-12",
+   "hc:13": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part1/lord-day-13",
+   "hc:14": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part1/lord-day-14",
+   "hc:15": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part1/lord-day-15",
+   "hc:16": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part1/lord-day-16",
+   "hc:17": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part1/lord-day-17",
+   "hc:18": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part1/lord-day-18",
+   "hc:19": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part1/lord-day-19",
+   "hc:20": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part2/lord-day-20",
+   "hc:21": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part2/lord-day-21",
+   "hc:22": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part2/lord-day-22",
+   "hc:23": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part3/lord-day-23",
+   "hc:24": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part3/lord-day-24",
+   "hc:25": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part4/lord-day-25",
+   "hc:26": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part5/lord-day-26",
+   "hc:27": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part5/lord-day-27",
+   "hc:28": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part6/lord-day-28",
+   "hc:29": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part6/lord-day-29",
+   "hc:30": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part6/lord-day-30",
+   "hc:31": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part6/lord-day-31",
+   "hc:32": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/lord-day-32",
+   "hc:33": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/lord-day-33",
+   "hc:34": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-34",
+   "hc:35": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-35",
+   "hc:36": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-36",
+   "hc:37": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-37",
+   "hc:38": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-38",
+   "hc:39": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-39",
+   "hc:40": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-40",
+   "hc:41": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-41",
+   "hc:42": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-42",
+   "hc:43": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-43",
+   "hc:44": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-44",
+   "hc:45": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part2/lord-day-45",
+   "hc:46": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part2/lord-day-46",
+   "hc:47": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part2/lord-day-47",
+   "hc:48": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part2/lord-day-48",
+   "hc:49": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part2/lord-day-49",
+   "hc:50": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part2/lord-day-50",
+   "hc:51": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part2/lord-day-51",
+   "hc:52": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part2/lord-day-52",
+   "bc:1": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/1",
+   "bc:10": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/10",
+   "bc:11": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/11",
+   "bc:12": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/12",
+   "bc:13": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/13",
+   "bc:14": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/14",
+   "bc:15": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/15",
+   "bc:16": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/16",
+   "bc:17": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/17",
+   "bc:18": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/18",
+   "bc:19": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/19",
+   "bc:2": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/2",
+   "bc:20": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/20",
+   "bc:21": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/21",
+   "bc:22": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/22",
+   "bc:23": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/23",
+   "bc:24": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/24",
+   "bc:25": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/25",
+   "bc:26": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/26",
+   "bc:27": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/27",
+   "bc:28": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/28",
+   "bc:29": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/29",
+   "bc:3": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/3",
+   "bc:30": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/30",
+   "bc:31": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/31",
+   "bc:32": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/32",
+   "bc:33": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/33",
+   "bc:34": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/34",
+   "bc:35": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/35",
+   "bc:36": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/36",
+   "bc:37": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/37",
+   "bc:4": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/4",
+   "bc:5": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/5",
+   "bc:6": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/6",
+   "bc:7": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/7",
+   "bc:8": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/8",
+   "bc:9": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/9",
+   "cd:('section1', 1)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/1",
+   "cd:('section1', 10)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/10",
+   "cd:('section1', 11)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/11",
+   "cd:('section1', 12)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/12",
+   "cd:('section1', 13)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/13",
+   "cd:('section1', 14)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/14",
+   "cd:('section1', 15)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/15",
+   "cd:('section1', 16)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/16",
+   "cd:('section1', 17)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/17",
+   "cd:('section1', 18)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/18",
+   "cd:('section1', 19)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/19",
+   "cd:('section1', 2)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/2",
+   "cd:('section1', 3)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/3",
+   "cd:('section1', 4)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/4",
+   "cd:('section1', 5)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/5",
+   "cd:('section1', 6)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/6",
+   "cd:('section1', 7)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/7",
+   "cd:('section1', 8)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/8",
+   "cd:('section1', 9)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/9",
+   "cd:('section2', 1)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/1",
+   "cd:('section2', 10)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/10",
+   "cd:('section2', 2)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/2",
+   "cd:('section2', 3)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/3",
+   "cd:('section2', 4)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/4",
+   "cd:('section2', 5)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/5",
+   "cd:('section2', 6)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/6",
+   "cd:('section2', 7)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/7",
+   "cd:('section2', 8)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/8",
+   "cd:('section2', 9)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/9",
+   "cd:('section3-4', 1)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/1",
+   "cd:('section3-4', 10)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/10",
+   "cd:('section3-4', 11)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/11",
+   "cd:('section3-4', 12)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/12",
+   "cd:('section3-4', 13)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/13",
+   "cd:('section3-4', 14)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/14",
+   "cd:('section3-4', 15)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/15",
+   "cd:('section3-4', 16)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/16",
+   "cd:('section3-4', 17)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/17",
+   "cd:('section3-4', 18)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/18",
+   "cd:('section3-4', 2)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/2",
+   "cd:('section3-4', 3)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/3",
+   "cd:('section3-4', 4)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/4",
+   "cd:('section3-4', 5)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/5",
+   "cd:('section3-4', 6)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/6",
+   "cd:('section3-4', 7)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/7",
+   "cd:('section3-4', 8)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/8",
+   "cd:('section3-4', 9)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/9",
+   "cd:('section5', 1)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/1",
+   "cd:('section5', 10)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/10",
+   "cd:('section5', 11)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/11",
+   "cd:('section5', 12)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/12",
+   "cd:('section5', 13)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/13",
+   "cd:('section5', 14)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/14",
+   "cd:('section5', 15)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/15",
+   "cd:('section5', 16)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/16",
+   "cd:('section5', 2)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/2",
+   "cd:('section5', 3)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/3",
+   "cd:('section5', 4)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/4",
+   "cd:('section5', 5)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/5",
+   "cd:('section5', 6)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/6",
+   "cd:('section5', 7)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/7",
+   "cd:('section5', 8)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/8",
+   "cd:('section5', 9)": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/9",
+   "idx:creeds": "https://ccifellowship.org/books/book-of-praise/creeds",
+   "idx:hc": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism",
+   "idx:bc": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession",
+   "idx:cd": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort"
+  },
+  "other_pages": {
+   "gen315": {
+    "url": "https://ccifellowship.org/sermons/text/56",
+    "fetched": true
+   },
+   "gen4": {
+    "url": "https://ccifellowship.org/sermons/text/79",
+    "fetched": true
+   },
+   "cor3": {
+    "url": "https://ccifellowship.org/sermons/text/108",
+    "fetched": true
+   },
+   "cor4": {
+    "url": "https://ccifellowship.org/sermons/text/109",
+    "fetched": true
+   },
+   "cor5": {
+    "url": "https://ccifellowship.org/sermons/text/110",
+    "fetched": true
+   },
+   "ld21a": {
+    "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-21-1",
+    "fetched": true
+   },
+   "ld21b": {
+    "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-21-2",
+    "fetched": true
+   },
+   "ld48": {
+    "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-48",
+    "fetched": true
+   },
+   "ild7": {
+    "url": "https://ccifellowship.org/books/i-belong/7",
+    "fetched": true
+   },
+   "ild12": {
+    "url": "https://ccifellowship.org/books/i-belong/12",
+    "fetched": true
+   },
+   "ild21": {
+    "url": "https://ccifellowship.org/books/i-belong/21",
+    "fetched": true
+   },
+   "ild31": {
+    "url": "https://ccifellowship.org/books/i-belong/31",
+    "fetched": true
+   },
+   "ild48": {
+    "url": "https://ccifellowship.org/books/i-belong/48",
+    "fetched": true
+   },
+   "cand33": {
+    "url": "https://ccifellowship.org/books/the-candlestand-statement/3-3",
+    "fetched": true
+   },
+   "lot": {
+    "url": "https://ccifellowship.org/sermons/text/47",
+    "fetched": true
+   },
+   "apcreed": {
+    "url": "https://ccifellowship.org/books/book-of-praise/creeds/apostles-creed",
+    "fetched": true
+   },
+   "nicreed": {
+    "url": "https://ccifellowship.org/books/book-of-praise/creeds/nicene-creed",
+    "fetched": true
+   },
+   "atcreed": {
+    "url": "https://ccifellowship.org/books/book-of-praise/creeds/athanasian-creed",
+    "fetched": true
+   },
+   "creedsidx": {
+    "url": "https://ccifellowship.org/books/book-of-praise/creeds",
+    "fetched": true
+   },
+   "ccbelief": {
+    "url": "https://www.ccreformed.org/our-belief/",
+    "fetched": true
+   }
+  }
+ }
+}

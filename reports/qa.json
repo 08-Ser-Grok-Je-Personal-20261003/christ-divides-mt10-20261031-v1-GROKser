@@ -1,0 +1,602 @@
+{
+ "404@375": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "404@375d": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "404@768": {
+  "ok": true,
+  "sw": 768,
+  "iw": 768,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "404@1280": {
+  "ok": true,
+  "sw": 1280,
+  "iw": 1280,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "background@375": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "background@375d": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "background@768": {
+  "ok": true,
+  "sw": 768,
+  "iw": 768,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "background@1280": {
+  "ok": true,
+  "sw": 1280,
+  "iw": 1280,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "bc@375": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "bc@375d": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "bc@768": {
+  "ok": true,
+  "sw": 768,
+  "iw": 768,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "bc@1280": {
+  "ok": true,
+  "sw": 1280,
+  "iw": 1280,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "cd@375": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "cd@375d": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "cd@768": {
+  "ok": true,
+  "sw": 768,
+  "iw": 768,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "cd@1280": {
+  "ok": true,
+  "sw": 1280,
+  "iw": 1280,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "compare@375": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "compare@375d": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "compare@768": {
+  "ok": true,
+  "sw": 768,
+  "iw": 768,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "compare@1280": {
+  "ok": true,
+  "sw": 1280,
+  "iw": 1280,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "creeds@375": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "creeds@375d": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "creeds@768": {
+  "ok": true,
+  "sw": 768,
+  "iw": 768,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "creeds@1280": {
+  "ok": true,
+  "sw": 1280,
+  "iw": 1280,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "discussion@375": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "discussion@375d": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "discussion@768": {
+  "ok": true,
+  "sw": 768,
+  "iw": 768,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "discussion@1280": {
+  "ok": true,
+  "sw": 1280,
+  "iw": 1280,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "extension@375": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "extension@375d": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "extension@768": {
+  "ok": true,
+  "sw": 768,
+  "iw": 768,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "extension@1280": {
+  "ok": true,
+  "sw": 1280,
+  "iw": 1280,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "hc@375": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "hc@375d": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "hc@768": {
+  "ok": true,
+  "sw": 768,
+  "iw": 768,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "hc@1280": {
+  "ok": true,
+  "sw": 1280,
+  "iw": 1280,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "index@375": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "index@375d": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "index@768": {
+  "ok": true,
+  "sw": 768,
+  "iw": 768,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "index@1280": {
+  "ok": true,
+  "sw": 1280,
+  "iw": 1280,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "memory@375": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "memory@375d": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "memory@768": {
+  "ok": true,
+  "sw": 768,
+  "iw": 768,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "memory@1280": {
+  "ok": true,
+  "sw": 1280,
+  "iw": 1280,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "sermon@375": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "sermon@375d": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "sermon@768": {
+  "ok": true,
+  "sw": 768,
+  "iw": 768,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "sermon@1280": {
+  "ok": true,
+  "sw": 1280,
+  "iw": 1280,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "sources@375": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "sources@375d": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "sources@768": {
+  "ok": true,
+  "sw": 768,
+  "iw": 768,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "sources@1280": {
+  "ok": true,
+  "sw": 1280,
+  "iw": 1280,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "tfu@375": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "tfu@375d": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "tfu@768": {
+  "ok": true,
+  "sw": 768,
+  "iw": 768,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "tfu@1280": {
+  "ok": true,
+  "sw": 1280,
+  "iw": 1280,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "worship@375": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "worship@375d": {
+  "ok": true,
+  "sw": 375,
+  "iw": 375,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "worship@768": {
+  "ok": true,
+  "sw": 768,
+  "iw": 768,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ },
+ "worship@1280": {
+  "ok": true,
+  "sw": 1280,
+  "iw": 1280,
+  "bad": [],
+  "overlaps": [],
+  "clipped": [],
+  "badanchors": [],
+  "errors": []
+ }
+}

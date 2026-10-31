@@ -1,0 +1,12 @@
+# 本地抓取缓存与原始数据（体积大，可用 tools/fetch/* 重新生成）
+_src/
+__pycache__/
+*.pyc
+# QA 截图（体积大）
+reports/screenshots/
+reports/*.png
+.DS_Store
+node_modules/
+# 绝不提交任何凭据
+.env
+*.token

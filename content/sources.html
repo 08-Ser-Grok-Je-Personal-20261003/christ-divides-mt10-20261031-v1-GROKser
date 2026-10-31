@@ -1,0 +1,69 @@
+title: 资料来源与核对报告
+h1: 资料来源 · 逐字核对报告
+lead: 本站的信经与信条文字，全部由程序从 ccifellowship.org 抓取并嵌入，页面生成时逐处断言，上线前再用独立脚本在线重抓、比对。此页说明用了什么、没用什么、哪里不能保证。
+badges: 逐字核对｜来源清单｜未抓取项的诚实标注｜局限
+---
+<section>
+<h2 id="how">一、怎样保证「逐字」</h2>
+<ol>
+<li><b>只注入，不改写</b>：信经、信条、问答的文字只来自 <code>data/bop.json</code>（由 ccifellowship.org 页面解析而成）；和合本经文只来自 getbible.net 的 <code>cus</code> 译本。讲章里的每一处引号引文都用宏产生，构建时断言「该片段必须是来源原文的子串」，否则构建失败。</li>
+<li><b>独立在线核对</b>：<code>tools/verify.py</code> 重新在线抓取所有相关页面，把站内每个文字块与引句规范化（去掉脚注号、标签、空白）后与在线页面比对，其余字符必须逐字相同。</li>
+</ol>
+<p>自行复核：<code>python3 tools/verify.py</code>（需要网络，结果写入 <code>reports/verify.json</code> 与 <code>reports/verify.txt</code>）。</p>
+</section>
+
+<section>
+<h2 id="report">二、核对报告</h2>
+{{verify:report}}
+</section>
+
+<section>
+<h2 id="cci">三、使用了 ccifellowship.org 的哪些部分</h2>
+<div class="table-wrap wide"><table><thead><tr><th>内容</th><th>来源页面</th><th>本站用法</th></tr></thead><tbody>
+<tr><td>三大普世信经（使徒、尼西亚、亚他那修）</td><td><a href="https://ccifellowship.org/books/book-of-praise/creeds" target="_blank" rel="noopener">/books/book-of-praise/creeds</a> 及其下三页</td><td><a href="creeds.html">信经背诵页</a>全文；<a href="compare.html">对比页</a>引句；各页简介</td></tr>
+<tr><td>海德堡要理问答（52 个主日，129 问答，含经文引证）</td><td><a href="https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism" target="_blank" rel="noopener">/confessions/heidelberg-catechism</a>（各主日页）</td><td><a href="hc.html">全文页</a>；讲章与专题页引用</td></tr>
+<tr><td>比利时信条（37 条）</td><td><a href="https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession" target="_blank" rel="noopener">/confessions/the-belgic-confession</a>（各条页）</td><td><a href="bc.html">全文页</a>；引用</td></tr>
+<tr><td>多特信经（第一、二、三/四、五项，共 63 条含「驳斥错谬」）</td><td><a href="https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort" target="_blank" rel="noopener">/confessions/canons-of-dort</a>（各条页）</td><td><a href="cd.html">全文页</a>；引用</td></tr>
+<tr><td>三项信条与三大信经的各页简介</td><td>上述各目录页</td><td><a href="tfu.html">信条精选</a>与<a href="creeds.html">信经页</a>原文照录</td></tr>
+</tbody></table></div>
+<h3>其他被引用的页面（ccifellowship.org 的书籍与证道，以及恩约教会一页；均已抓取、片段已核对）</h3>
+{{srclist:list}}
+<h3>本站讲章与专题页直接引用的条文</h3>
+{{usedlist:list}}
+</section>
+
+<section>
+<h2 id="other">四、其他资料</h2>
+<div class="table-wrap wide"><table><thead><tr><th>资料</th><th>用途</th><th>核对状态</th></tr></thead><tbody>
+<tr><td>和合本（getbible.net，<code>cus</code> 译本）</td><td>所有经文引用（太10:5–39、约7:40–44、诗3/2/23篇等）</td><td>上线前在线重抓，逐节比对</td></tr>
+<tr><td>Natural Earth（公有领域）</td><td>「加利利—犹太」示意地图的底图（海岸线、约旦河、死海，简化后自绘 SVG）</td><td>底图为真实数据；加利利海轮廓为手绘近似；区域范围、路线与地点位置均为示意</td></tr>
+<tr><td>ccifellowship.org 证道：创3:15、创4、林前1–4（第3–5篇）、海德堡主日21、48</td><td>讲章、延伸、讨论页中「两种后裔」「教会合一」「分党」的短句</td><td>引句已在线核对</td></tr>
+<tr><td>Visscher《我属于主》第7、12、21、31、48章；《灯台声明》3.3；罗得之妻证道（ccifellowship.org）</td><td>逼迫、教会、纪律、合一的短句</td><td>引句已在线核对</td></tr>
+<tr><td>洛杉矶改革宗·恩约教会「我们的信仰」</td><td>信经对比页中信经起源的一句话</td><td>引句已在线核对</td></tr>
+</tbody></table></div>
+</section>
+
+<section>
+<h2 id="not">五、没有抓取、因此不作引文的内容（诚实标注）</h2>
+<div class="callout warn"><b class="t">以下为本站作者的整理，不是逐字引文</b>
+<ul>
+<li><b>历史背景</b>：马太福音的成书年代（早期说约主后50–60年代、晚期说约主后80–90年代）、约翰福音的年代（多数说约主后85–95年，少数主张70年前）、耶稣事工年代（约主后27/29–30/33年）；帕皮亚、爱任纽关于马太的传统；住棚节的取水礼与点灯礼（《密西拿·住棚节》）；约瑟夫《犹太古史》17.295 关于瓦卢斯钉死约二千人的记载等，依据一般的圣经背景知识整理，未逐字引自已抓取的文章；使用前请核对可靠的注释书与圣经辞典。</li>
+<li><b>希腊文观察</b>：<i>machaira</i>（刀）、<i>dichazō</i>（使分开）、<i>schisma</i>（纷争/分裂）在约7:43、9:16、10:19 与林前1:10、11:18、12:25 的用法，依据一般的语言知识，未引用具体辞典。</li>
+<li><b>注释家观点</b>：10:23「人子到来」的几种解释、10:34 的「目的/结果」之辨等，是对常见解经立场的转述，未引用具体注释书原文。</li>
+<li><b>教会历史</b>：宗教改革、1834年分离、1886年哀恸运动、1944年解放等，只作一般性提及，不作评判；未逐字引用。</li>
+<li><b>威斯敏斯特信条／大小要理</b>：仅作转述与条号对应（如 25.4–5、26.1、30、20.2），<b>未抓取</b>，无引号引文。请到 opc.org 等处核对。</li>
+<li><b>诗歌</b>：圣诗4首、韵诗3篇、韵诗2篇、诗篇23篇仅列编号；歌名与歌词因各教会诗本不同，一律未收录。韵诗与诗篇篇号对应是<b>假定</b>。诗篇页所附为和合本<b>经文</b>，不是歌词。</li>
+<li><b>三大信经中文版本</b>：本站采用 ccifellowship.org 的译文；与其他教会的中文译本可能有用字差异。</li>
+</ul></div>
+<div class="callout hard"><b class="t">源站的一处小出入</b><p>ccifellowship.org 对亚他那修信经的简介称第二部分「包括第29-43点」，而信经正文的编号到第 42 点为止。本站按源站原文照录，没有自行更正。</p></div>
+</section>
+
+<section>
+<h2 id="limits">六、局限与使用提醒</h2>
+<ul>
+<li>地图是示意图；从加利利上耶路撒冷的路线有经撒马利亚与经约旦河谷两种，图中只画后者作示意。</li>
+<li>成书年代有不同观点，本站并列呈现，不作定论。</li>
+<li>朗读功能依赖浏览器的语音合成（不同设备效果不同），站内没有录音。</li>
+<li>如发现与 ccifellowship.org 现行文本有差异（源站可能更新），请重新运行 <code>tools/fetch</code> 与 <code>tools/verify.py</code>（见 README）。</li>
+</ul>
+</section>
